@@ -1,4 +1,5 @@
 # Simply-Bengali Restaurant
+ Your site is published at https://ban-biaysme.github.io/Simply-Bengali/
 Restaurant for the food lovers.
 
 Simply Bengali Restaurant is an authentic Bengali cuisine having a small business that offers multiple services for their customers, these services include:
